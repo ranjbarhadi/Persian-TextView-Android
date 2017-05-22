@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="net.ranjbar.persiantextviewdemoapp.MainActivity">
+
+    <net.ranjbar.textview.persian
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="سلام. این یک نمونه تکست ویو فارسی
+ست."
+        android:textSize="20dp" />
+
+    <net.ranjbar.textview.persian
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="برای استفاده از این ویو می توانید فونت خود را با نام font.ttf در پوشه ی assets قرار دهید." />
+
+</LinearLayout>
