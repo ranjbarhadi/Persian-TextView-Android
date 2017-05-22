@@ -50,7 +50,8 @@
 <br>
 لایسنس:
 <br>
-
+<br>
+<div dir="ltr">
     MIT License
 
     Copyright (c) 2017 Hadi ranjbar
@@ -72,6 +73,7 @@
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+</dir>
 </div>
 
 
